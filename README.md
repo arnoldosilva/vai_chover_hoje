@@ -78,8 +78,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## Download
 
 <p align="center">
-    <a href="#"><img src="imagens/googleplay.png"></a>
-    <a href="#"><img src="imagens/applestore.png"></a>
+    <a href="#"><img src="imagens/googleplay.png" width="200"></a>
+    <a href="#"><img src="imagens/applestore.png" width="200"></a>
 </p>
 
 ## Emailware
