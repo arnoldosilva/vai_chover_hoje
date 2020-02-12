@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.arnoldosilva.com.br"><img src="imagens/foto_1.png" alt="Arnoldo Silva" width="200"></a>
+  <a href="http://www.arnoldosilva.com.br"><img src="imagens/lotot1.png" alt="Arnoldo Silva" width="200"></a>
   <br>
-  Arnoldo Silva
+  Vai Chover Hoje?
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Um simple App de monitorar o clima feito em <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -93,7 +93,7 @@ This software uses the following open source packages:
 - [showdown](http://showdownjs.github.io/showdown/)
 - [CodeMirror](http://codemirror.net/)
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [UmbrellaIcon](Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>)
 
 ## Related
 
