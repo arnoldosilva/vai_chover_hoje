@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.arnoldosilva.com.br"><img src="imagens/lotot1.png" alt="Arnoldo Silva" width="200"></a>
+  <a href="http://www.arnoldosilva.com.br"><img src="imagens/logot1.png" alt="Arnoldo Silva" width="200"></a>
   <br>
   Vai Chover Hoje?
   <br>
