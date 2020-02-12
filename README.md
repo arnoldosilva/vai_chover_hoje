@@ -77,7 +77,10 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+<p align="center">
+    <a href="#"><img src="imagens/googleplay.png"></a>
+    <a href="#"><img src="imagens/applestore.png"></a>
+</p>
 
 ## Emailware
 
