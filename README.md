@@ -24,12 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Funcionalidades</a> •
-  <a href="#how-to-use">Como Usar</a> •
+  <a href="#Funcionalidades">Funcionalidades</a> •
+  <a href="#Como-Usar">Como Usar</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Créditos</a> •
-  <a href="#related">Related</a> •
-  <a href="#related">Licença</a> •
+  <a href="#Créditos">Créditos</a> •
+  <a href="#Relacionado">Relacionado</a> •
+  <a href="#Suporte">Suporte</a> •
+  <a href="#Licença">Licença</a> •
   <a href="#contato">Contato</a>
 </p>
 
@@ -54,11 +55,7 @@ Você deve instalar o aplicativo em seu smartphone ou emulador através das loja
     <a href="#"><img src="imagens/applestore.png" width="200"></a>
 </p>
 
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
+## Créditos
 
 This software uses the following open source packages:
 
@@ -70,21 +67,16 @@ This software uses the following open source packages:
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 - UmbrellaIcon - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-## Related
+## Relacionado
 
 [markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
 
-## Support
+## Suporte
 
 <p align="center">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQ4CEE4SBKRVC&source=url"><img src="imagens/paypal.jpeg" width="180"></a>
     <a href="https://www.patreon.com/arnoldosilva"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150"></a>
 </p>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## Licença
 
