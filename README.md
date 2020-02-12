@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">Funcionalidades</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -34,10 +34,9 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## Funcionalidades
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
+* Consumo API [OpenWeather](https://openweathermap.org/).
 * Sync Scrolling
   - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown  
