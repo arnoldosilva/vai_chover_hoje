@@ -124,9 +124,9 @@ MIT
 <img src="imagens/linkedin.png" width="60">
 </a>
 <a href="https://dribbble.com/arnoldosilva">
-<img src="imagens/dribble-icon-1.svg" width="60">
+<img src="imagens/dribble.png" width="60">
 </a>
-<a href="https://www.linkedin.com/in/arnoldosilva/">
-<img src="imagens/linkedin.png" width="60">
+<a href="https://wa.me/5585998714767">
+<img src="imagens/whatsapp.png" width="60">
 </a>
 
