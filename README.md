@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Um simple App de monitorar o clima feito em <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
+<h4 align="center">Um simples App de monitorar o clima feito em <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
