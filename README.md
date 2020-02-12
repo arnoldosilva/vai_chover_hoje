@@ -93,7 +93,7 @@ This software uses the following open source packages:
 - [showdown](http://showdownjs.github.io/showdown/)
 - [CodeMirror](http://codemirror.net/)
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [UmbrellaIcon](Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>)
+- UmbrellaIcon - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 ## Related
 
