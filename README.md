@@ -123,6 +123,10 @@ MIT
 <a href="https://www.linkedin.com/in/arnoldosilva/">
 <img src="imagens/linkedin.png" width="60">
 </a>
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+<a href="https://dribbble.com/arnoldosilva">
+<img src="imagens/dribble-icon-1.svg" width="60">
+</a>
+<a href="https://www.linkedin.com/in/arnoldosilva/">
+<img src="imagens/linkedin.png" width="60">
+</a>
 
