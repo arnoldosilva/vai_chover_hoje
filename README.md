@@ -73,6 +73,8 @@ This software uses the following open source packages:
 
 ## Suporte
 
+Ajude este Desenvolvedor a continuar seu sonho em desenvolvimento de jogos e mobile! Doe pelo PayPal ou seja meu patrão no Patreon!
+
 <p align="center">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQ4CEE4SBKRVC&source=url"><img src="imagens/paypal.jpeg" width="180"></a>
     <a href="https://www.patreon.com/arnoldosilva"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150"></a>
