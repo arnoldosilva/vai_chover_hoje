@@ -98,4 +98,6 @@ Ajude este Desenvolvedor a continuar seu sonho em desenvolvimento de jogos e mob
 <a href="https://arnoldosilva.com.br">
 <img src="imagens/www.png" width="60">
 </a>
-
+<a mailto=contato@arnoldosilva.com.br>
+<img src="imagens/email.png" width="60">
+</a>
