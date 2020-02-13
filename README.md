@@ -85,7 +85,7 @@ Ajude este Desenvolvedor a continuar seu sonho em desenvolvimento de jogos e mob
 ---
 
 ## Contato
-
+<p align="center">
 <a href="https://www.linkedin.com/in/arnoldosilva/">
 <img src="imagens/linkedin.png" width="60">
 </a>
@@ -101,3 +101,4 @@ Ajude este Desenvolvedor a continuar seu sonho em desenvolvimento de jogos e mob
 <a mailto=contato@arnoldosilva.com.br>
 <img src="imagens/email.png" width="60">
 </a>
+</p>
