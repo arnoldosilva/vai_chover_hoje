@@ -35,9 +35,9 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="imagens/miniatura1.png" height="600"></a>
-    <a href="#"><img src="imagens/miniatura2.png" height="600"></a>
-    <a href="#"><img src="imagens/miniatura3.png" height="600"></a>
+    <a href="#"><img src="imagens/miniatura1.png" height="500"></a>
+    <a href="#"><img src="imagens/miniatura2.png" height="500"></a>
+    <a href="#"><img src="imagens/miniatura3.png" height="500"></a>
 </p>
 
 ## Funcionalidades
