@@ -34,7 +34,11 @@
   <a href="#contato">Contato</a>
 </p>
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCSgfSFXkGyLmb9PRxSyDBAQ5%2F0_Weather_App%3Fnode-id%3D6%253A0%26amp%253Bviewport%3D1344%252C571%252C0.1255742758512497%26amp%253Bscaling%3Dscale-down%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<p align="center">
+    <a href="#"><img src="imagens/miniatura1.png" height="600"></a>
+    <a href="#"><img src="imagens/miniatura2.png" height="600"></a>
+    <a href="#"><img src="imagens/miniatura3.png" height="600"></a>
+</p>
 
 ## Funcionalidades
 
