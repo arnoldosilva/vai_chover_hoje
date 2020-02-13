@@ -9,7 +9,7 @@
 
 <h4 align="center">Um simples App de monitorar o clima feito em <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
@@ -21,7 +21,7 @@
   <a href="https://www.paypal.me/AmitMerchant">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="#Funcionalidades">Funcionalidades</a> •
@@ -34,7 +34,7 @@
   <a href="#contato">Contato</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCSgfSFXkGyLmb9PRxSyDBAQ5%2F0_Weather_App%3Fnode-id%3D6%253A0%26amp%253Bviewport%3D1344%252C571%252C0.1255742758512497%26amp%253Bscaling%3Dscale-down%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ## Funcionalidades
 
@@ -84,7 +84,6 @@ Distribuído sob [MIT](https://github.com/arnoldosilva/vai_chover_hoje/blob/mast
 ---
 
 ## Contato
-
 <p align="center">
 <a href="https://www.linkedin.com/in/arnoldosilva/">
 <img src="imagens/linkedin.png" width="60">
