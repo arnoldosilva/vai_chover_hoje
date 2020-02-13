@@ -79,12 +79,12 @@ Ajude este Desenvolvedor a continuar seu sonho em desenvolvimento de jogos e mob
 </p>
 
 ## Licença
-
-[MIT](https://github.com/arnoldosilva/vai_chover_hoje/blob/master/LICENSE)
+Distribuído sob [MIT](https://github.com/arnoldosilva/vai_chover_hoje/blob/master/LICENSE) Licença. Leia mais em [LICENSE](https://github.com/arnoldosilva/vai_chover_hoje/blob/master/LICENSE)
 
 ---
 
 ## Contato
+
 <p align="center">
 <a href="https://www.linkedin.com/in/arnoldosilva/">
 <img src="imagens/linkedin.png" width="60">
