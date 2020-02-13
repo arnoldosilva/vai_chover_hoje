@@ -28,7 +28,7 @@
   <a href="#Como-Usar">Como Usar</a> •
   <a href="#download">Download</a> •
   <a href="#Créditos">Créditos</a> •
-  <a href="#Relacionado">Relacionado</a> •
+  <!-- <a href="#Relacionado">Relacionado</a> • -->
   <a href="#Suporte">Suporte</a> •
   <a href="#Licença">Licença</a> •
   <a href="#contato">Contato</a>
@@ -69,9 +69,9 @@ Este App utiliza os seguintes pacotes ou assets de uso livre:
 - [UnSplash](https://unsplash.com/)
 - UmbrellaIcon - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-## Relacionado
+<!-- ## Relacionado
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify -->
 
 ## Suporte
 
