@@ -57,14 +57,12 @@ Você deve instalar o aplicativo em seu smartphone ou emulador através das loja
 
 ## Créditos
 
-This software uses the following open source packages:
+Este App utiliza os seguintes pacotes ou assets de uso livre:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
+- [Flutter](https://flutter.dev/)
+- [GeoLocator](https://pub.dev/packages/geolocator)
+- [OpenWeather](https://openweathermap.org/)
+- [UnSplash](https://unsplash.com/)
 - UmbrellaIcon - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 ## Relacionado
