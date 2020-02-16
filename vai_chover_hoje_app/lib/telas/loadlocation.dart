@@ -7,14 +7,21 @@ class LoadLocation extends StatefulWidget {
 }
 
 class _LoadLocationState extends State<LoadLocation> {
-  GetLocation location = GetLocation();
+  
   
   @override
   void initState() {
     super.initState();
-    location.getlocation();   
-    print('init state');
+    getLocation();
   }
+
+  void getLocation()async {
+      Location location = Location();
+      await location.getCurrentlocation();   
+      print(location.latitude);
+      print(location.longitude);
+  }
+
 
   @override
   Widget build(BuildContext context) {
