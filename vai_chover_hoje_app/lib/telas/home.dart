@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:geolocator/geolocator.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -6,12 +7,20 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
+
+  void getlocation()async{
+    Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+    print(position);
+  }
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        child: Center(
-          child: Image.asset('img/bg.jpg'),
+      body: Center(
+        child: RaisedButton(
+          onPressed: getlocation,
+          child: Text("Get Location"),
         ),
       ),
     );
