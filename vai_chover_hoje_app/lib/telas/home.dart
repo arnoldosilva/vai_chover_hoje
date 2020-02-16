@@ -9,20 +9,18 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
 
   void getlocation()async{
-    Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+    Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
     print(position);
   }
 
+  @override
+  void initState() {
+    super.initState();
+    getlocation();
+  }
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: RaisedButton(
-          onPressed: getlocation,
-          child: Text("Get Location"),
-        ),
-      ),
-    );
+    return Scaffold();
   }
 }
