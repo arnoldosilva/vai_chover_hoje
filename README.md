@@ -105,3 +105,4 @@ Distribuído sob [MIT](https://github.com/arnoldosilva/vai_chover_hoje/blob/mast
 <img src="imagens/email.png" width="60">
 </a>
 </p>
+
