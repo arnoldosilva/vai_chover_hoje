@@ -9,7 +9,6 @@ class LoadLocation extends StatefulWidget {
 }
 
 class _LoadLocationState extends State<LoadLocation> {
-  
   @override
   void initState() {
     super.initState();
@@ -17,37 +16,35 @@ class _LoadLocationState extends State<LoadLocation> {
     getData();
   }
 
-  void getLocation()async {
-      Location location = Location();
-      await location.getCurrentlocation();   
-      print(location.latitude);
-      print(location.longitude);
-      
+  void getLocation() async {
+    Location location = Location();
+    await location.getCurrentlocation();
+    print(location.latitude);
+    print(location.longitude);
   }
 
-  void getData()async{
-    String url = 'https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22';
+  void getData() async {
+    String url =
+        'https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22';
     http.Response response = await http.get(url);
 
     if (response.statusCode == 200) {
       String data = response.body;
       var decodedData = jsonDecode(data);
       var temperature = decodedData['main']['temp'];
-      var condition =   decodedData['weather'][0]['id'];
+      var condition = decodedData['weather'][0]['id'];
       String location = decodedData['name'];
 
       print(temperature);
       print(condition);
       print(location);
-
-    }else{
-      print(response.statusCode);  
+    } else {
+      print(response.statusCode);
     }
   }
+
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      
-    );
+    return Scaffold();
   }
 }

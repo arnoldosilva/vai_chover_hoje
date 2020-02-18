@@ -4,14 +4,15 @@ class Location {
   double latitude;
   double longitude;
 
-  void getCurrentlocation() async {
+  Future<void> getCurrentlocation() async {
     try {
-      Position position = await Geolocator().getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
-      latitude  = position.latitude;
+      Position position = await Geolocator()
+          .getCurrentPosition(desiredAccuracy: LocationAccuracy.medium);
+      latitude = position.latitude;
       longitude = position.longitude;
     } catch (e) {
+      //TODO: Create second widget for non gps conection
       print(e);
     }
   }
-  
 }
