@@ -10,7 +10,6 @@ class LoadLocation extends StatefulWidget {
 
 class _LoadLocationState extends State<LoadLocation> {
   
-  
   @override
   void initState() {
     super.initState();
@@ -44,11 +43,7 @@ class _LoadLocationState extends State<LoadLocation> {
     }else{
       print(response.statusCode);  
     }
-    
-    
   }
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
