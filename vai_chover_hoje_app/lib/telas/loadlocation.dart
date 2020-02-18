@@ -34,6 +34,7 @@ class _LoadLocationState extends State<LoadLocation> {
       var temperature = decodedData['main']['temp'];
       var condition = decodedData['weather'][0]['id'];
       String location = decodedData['name'];
+      
 
       print(temperature);
       print(condition);
