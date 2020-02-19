@@ -11,14 +11,6 @@ class Location {
       latitude = position.latitude;
       longitude = position.longitude;
     } catch (e) {
-      //TODO: Create second widget for non gps conection
-      //tratamento de erros
-      /*
-      * linha destacada dentro de um comentário - extensão better comments
-
-
-
-      */
       print(e);
     }
   }
