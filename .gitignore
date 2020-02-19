@@ -19,4 +19,4 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
-vai_chover_hoje_app/lib/servicos/constantes.dart
+vai_chover_hoje_app/lib/servicos/apikeys.dart
